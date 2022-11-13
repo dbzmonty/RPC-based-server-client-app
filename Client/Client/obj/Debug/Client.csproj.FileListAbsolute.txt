@@ -1,0 +1,10 @@
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\bin\Debug\Client.exe.config
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\bin\Debug\Client.exe
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\bin\Debug\Client.pdb
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.exe
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.pdb
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\bin\Debug\ICalculator.dll
+E:\Cuccok\Programozás\x_c_sharp\RPC-based-server-client-app\Client\Client\obj\Debug\Client.csproj.CopyComplete

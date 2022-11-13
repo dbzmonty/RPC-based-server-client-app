@@ -17,6 +17,18 @@ namespace Server
             string ServerPort = ConfigurationManager.AppSettings["ServerPort"];
             TcpChannel channel = new TcpChannel(int.Parse(ServerPort));
             ChannelServices.RegisterChannel(channel, false);
+            
+            Console.WriteLine("Port opened");
+
+            RemotingConfiguration.RegisterWellKnownServiceType(
+                typeof(Calculator),
+                "what",
+                WellKnownObjectMode.Singleton
+            );
+
+            Console.WriteLine("Server online");
+
+            Console.ReadLine();
         }
     }
 }
